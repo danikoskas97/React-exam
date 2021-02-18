@@ -44,7 +44,7 @@ export default function AppMain() {
               <img src={x.flag} height="50px" width="80px" alt="img"></img>
             </td>
           </tr>
-        ))}
+          ))}
       </table>
     </div>
   );
